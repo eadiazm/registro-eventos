@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/registro-eventos/static/css/main.e6c13ad2.css",
+    "main.js": "/registro-eventos/static/js/main.c34a36ed.js",
+    "static/js/453.ba56ec0f.chunk.js": "/registro-eventos/static/js/453.ba56ec0f.chunk.js",
+    "index.html": "/registro-eventos/index.html",
+    "main.e6c13ad2.css.map": "/registro-eventos/static/css/main.e6c13ad2.css.map",
+    "main.c34a36ed.js.map": "/registro-eventos/static/js/main.c34a36ed.js.map",
+    "453.ba56ec0f.chunk.js.map": "/registro-eventos/static/js/453.ba56ec0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c34a36ed.js"
+  ]
+}
