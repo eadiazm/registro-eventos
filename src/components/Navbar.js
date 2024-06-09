@@ -12,10 +12,10 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id='navbarNav'>
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Lista de eventos</Link>
+                            <Link className="nav-link" to="/add-event">Agregar Evento</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/add-event">Agregar Evento</Link>
+                            <Link className="nav-link" to="/">Lista de eventos</Link>
                         </li>
                     </ul>
                 </div>
